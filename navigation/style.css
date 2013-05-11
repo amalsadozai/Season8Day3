@@ -1,0 +1,19 @@
+ul {
+	list-style-type: none;
+}
+
+li {
+	float: left;
+}
+
+a { 
+	border: 1px solid #000;
+	display: block;
+	padding: 8px;
+	margin: 10px;
+}
+
+a:hover {
+	background: orange;
+	color: #fff;
+}

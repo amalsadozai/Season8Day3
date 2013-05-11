@@ -1,19 +1,17 @@
-ul {
+ul{
 	list-style-type: none;
 }
-
-li {
+li{
 	float: left;
 }
 
-a { 
+a {
 	border: 1px solid #000;
 	display: block;
 	padding: 8px;
 	margin: 10px;
 }
-
-a:hover {
+a:hover;{
 	background: orange;
-	color: #fff;
+	color; #fff;
 }
